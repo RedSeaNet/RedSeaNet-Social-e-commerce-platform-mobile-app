@@ -15,13 +15,13 @@
 
 ### Change Log
 
-Click and See  <a href="https://redseanet.com/technology-sharing/ecomphp/ecomphp_app_change_summary.html" target="_blank">Change Log</a>
+Click and See <a href="https://redseanet.com/technology-sharing/ecomphp/ecomphp_app_change_summary.html" target="_blank">Change Log</a>
 
 ---
 
 ### Install Local
 
-Click and See   <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/blob/master/readme/install.md" target="_blank">Install Local</a>
+Click and See <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/blob/master/readme/install.md" target="_blank">Install Local</a>
 
 ---
 
@@ -47,6 +47,8 @@ RedSeaNet Social e-commerce platform(PHP) APP, bloggers post text, images or vid
 
 ### Core Function
 
+```
+
 Function
 
 ```
@@ -54,57 +56,67 @@ Function
 RedSeaNet Social e-commerce platform function
 
 ```
+
 Multiple payment methods: wechat Pay, Alipay;
 Various types of goods: standard products, virtual products, charge card;
 A variety of promotion: groups, bargain, coupons, reward points, recharge;
 A variety of shipping method: express, distribution, self-pick, free mail, super freight template management, multiple self-pick points;
 Flexible product attributes: can adapt to different products;
 Product review/rating: Product review/rating;
+
 ```
 
 Customer Management
 
 ```
+
 Customer level: Customer level upgrade experience tasks;
 Customer Group: Paying member Trial member benefits
 Customer management: Customer Type Add Customer Label/Group User operation Browsing history
 Login: wechat login mobile phone number quick login and account password login
+
 ```
 
 CMS Management
 
 ```
+
 Pages
 Pages Management
 Pages categories Management
 Pages List
 Content blocks Management
+
 ```
 
 Sales
 
 ```
+
 Shopping Cart
 Orders
 Bills
 Shipping
 Refund Orders
 Order Status
+
 ```
 
 Social Forum
 
 ```
+
 Posts（Text,Images,Videos）
 Tags
 Review/Comments
 Follow
 Recomment Products
+
 ```
 
 ---
 
-### UI 
+### UI
 
 ![ui mobile](readme/images/ui-mobile.jpg)
 
@@ -116,16 +128,15 @@ Recomment Products
 
 ---
 
-Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/issues" target="_blank">Feedback Issue</a>
+Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/issues" target="_blank">Feedback Issue</a>
 
-Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP" target="_blank">Contribution</a>
-
+Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app" target="_blank">Contribution</a>
 
 ---
 
 ## How to contribute
 
-Fork the repository,, edit and [submit a pull request](https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/pulls).
+Fork the repository,, edit and [submit a pull request](https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/pulls).
 
 Please be very clear on your commit messages and pull request, empty pull request messages may be rejected without reason.
 
@@ -135,11 +146,11 @@ Please be very clear on your commit messages and pull request, empty pull reques
 
 Email： [info@redseanet.com](info@redseanet.com)
 
-Wechat： 
+Wechat：
 
 ![RedSeaNet Wechat](readme/images/redseanet-weichat.jpg)
 
-(≧∀≦)ゞOur team can support the platform's custom development services(≧∀≦)ゞ。
+(≧∀≦)ゞ Our team can support the platform's custom development services(≧∀≦)ゞ。
 
 ---
 
@@ -172,3 +183,7 @@ All rights reserved.
 The copyright holder is Shenzhen RedSeaNet Internet Technology Co., LTD.
 
 ---
+
+```
+
+```

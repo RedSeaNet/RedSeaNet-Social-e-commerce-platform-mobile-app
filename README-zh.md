@@ -15,19 +15,19 @@
 
 ### 更新说明
 
-点击查看   <a href="https://redseanet.com/technology-sharing/ecomphp/ecomphp_app_change_summary.html" target="_blank">更新记录</a>
+点击查看 <a href="https://redseanet.com/technology-sharing/ecomphp/ecomphp_app_change_summary.html" target="_blank">更新记录</a>
 
 ---
 
 ### 本地安装
 
-点击查看   <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/blob/master/readme/install.md" target="_blank">本地安装</a>
+点击查看 <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/blob/master/readme/install.md" target="_blank">本地安装</a>
 
 ---
 
 ### 介绍
 
-红海社交(PHP) APP社交电商系统，店家或博主用文案或视频引流给自己的店铺和产品，留言和评论和用户互动，提高服务。基于 React Native开发，服务端： https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP。
+红海社交(PHP) APP 社交电商系统，店家或博主用文案或视频引流给自己的店铺和产品，留言和评论和用户互动，提高服务。基于 React Native 开发，服务端： https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP。
 
 ---
 
@@ -47,41 +47,49 @@
 
 ### 核心功能
 
+```
 
 商城功能
 
 ```
+
 多种支付方式：微信支付、支付宝支持；
 多种商品类型：标准商品、虚拟商品、卡密商品；
 多种营销功能：拼团、砍价、优惠券、积分、充值、渠道码；
 多种运费方式：快递、配送、自提、包邮、超强运费模版管理、多自提点；
 灵活的产品属性： 可以适应不同产品；
 产品评论/评分： 产品评论/评分功能；
+
 ```
 
 用户管理
 
 ```
+
 用户等级：用户等级 经验升级 经验任务；
 用户组：付费会员 试用会员 会员权益
 用户管理：用户类型 添加用户 用户标签/分组 用户操作 浏览记录
 登录方式：微信快速登录 密码登录/注册
 微信端登录：微信授权登录 手机号快速登录 账号密码登录
+
 ```
 
 CMS 管理
 
 ```
+
 文章内容
 文章管理
 文章分类
 文章列表
 内容块管理
+
 ```
 
 交易
 
 ```
+
 购物车
 订单
 账单
@@ -89,16 +97,19 @@ CMS 管理
 退款单
 退货退款
 订单状态
+
 ```
 
 推广社区
 
 ```
+
 帖子（图文，视频）
 主题
 留言/回复
 关注博主
 帖子推荐产品
+
 ```
 
 ---
@@ -112,7 +123,6 @@ CMS 管理
 欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/issues" target="_blank">反馈问题</a>
 
 欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP" target="_blank">提交代码</a>
-
 
 ---
 
@@ -128,7 +138,7 @@ Fork 库出来, 编辑和 [提交一个 PR](https://github.com/RedSeaNet/RedSeaN
 
 邮箱： [info@redseanet.com](info@redseanet.com)
 
-微信： 
+微信：
 
 ![红海微信](readme/images/redseanet-weichat.jpg)
 
@@ -165,4 +175,4 @@ All rights reserved。
 著作权所有者为深圳红海互联科技有限公司。
 
 ---
-
+```
