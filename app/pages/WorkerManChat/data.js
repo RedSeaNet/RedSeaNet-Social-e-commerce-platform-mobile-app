@@ -1,0 +1,38 @@
+export const data = [
+  {
+    _id: '51fc9ccf-3bd6-4fc2-86a5-473ce9f1bbd1',
+    image: 'https://unsplash.it/600/400/?random',
+    createdAt: 1566379713532,
+    session: '5897-5904',
+    user: {_id: '5904', name: '8383'},
+    type: 'image',
+    sendState: 0,
+  },
+  {
+    _id: 'ed2f445b-5652-4f31-87be-ecce6963a39f',
+    text: 'Jdghfdgdfjthdfgdfgfd',
+    createdAt: 1566379703081,
+    session: '5897-5904',
+    user: {_id: '5904', name: '8383'},
+    type: 'text',
+    sendState: 0,
+  },
+  {
+    _id: 'ed2f445b-5652-4f31-87be-ecce6963a39f',
+    text: '4354dsldjlsgdlsjfds',
+    createdAt: 1566379703081,
+    session: '5897-5908',
+    user: {_id: '5904', name: '8383'},
+    type: 'text',
+    sendState: 0,
+  },
+  {
+    _id: 'cdce2c85-9478-4e63-b02e-730311d63996',
+    text: 'Jfjgfhgfhgfhfgh',
+    createdAt: 1566379693271,
+    session: '5897-5904',
+    user: {_id: '5904', name: '8383'},
+    type: 'text',
+    sendState: 0,
+  },
+];
