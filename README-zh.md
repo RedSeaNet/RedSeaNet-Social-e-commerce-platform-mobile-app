@@ -120,15 +120,15 @@ CMS 管理
 
 ---
 
-欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/issues" target="_blank">反馈问题</a>
+欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/issues" target="_blank">反馈问题</a>
 
-欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP" target="_blank">提交代码</a>
+欢迎<a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app" target="_blank">提交代码</a>
 
 ---
 
 ## 如何参与贡献
 
-Fork 库出来, 编辑和 [提交一个 PR](https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-PHP/pulls).
+Fork 库出来, 编辑和 [提交一个 PR](https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/pulls).
 
 请清楚地描述提交和 PR 的信息，空的描述和不清楚的描述， PR 会被没有原因驳回；
 
@@ -168,7 +168,7 @@ Apache License 2.0 是一种宽松的开源许可，允许人们自由使用、�
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有 Copyright © 2019~2024 by 红海互联 (https://www.redseanet.com)
+版权所有 Copyright © 2019~2024 by 红海互联 (https://redseanet.com)
 
 All rights reserved。
 

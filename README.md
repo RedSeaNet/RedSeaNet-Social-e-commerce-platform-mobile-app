@@ -122,12 +122,6 @@ Recomment Products
 
 ---
 
-### Administrator UI
-
-![ui admin](readme/images/ui-admin.jpg)
-
----
-
 Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app/issues" target="_blank">Feedback Issue</a>
 
 Welcome <a href="https://github.com/RedSeaNet/RedSeaNet-Social-e-commerce-platform-mobile-app" target="_blank">Contribution</a>
@@ -176,7 +170,7 @@ Apache License 2.0 is a open source license that allows people to freely use, mo
 
 The copyright information of third-party source code and binary files contained in this project is marked separately.
 
-All rights reserved Copyright © 2019-2024 RedSeaNet INC. (https://www.redseanet.com)
+All rights reserved Copyright © 2019-2024 RedSeaNet INC. (https://redseanet.com)
 
 All rights reserved.
 
